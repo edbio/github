@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://edbio.github.io/github/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://edbio.github.io/github/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://edbio.github.io/github/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://edbio.github.io/github/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://edbio.github.io/github/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://edbio.github.io/github/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://edbio.github.io/github/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://edbio.github.io/github/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://edbio.github.io/github/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://edbio.github.io/github/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://edbio.github.io/github/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://edbio.github.io/github/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://edbio.github.io/github/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://edbio.github.io/github/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://edbio.github.io/github/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://edbio.github.io/github/tags/test/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/test/</loc>
+    <loc>https://edbio.github.io/github/categories/test/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/test/</loc>
+    <loc>https://edbio.github.io/github/post/test/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/desc/</loc>
+    <loc>https://edbio.github.io/github/about/desc/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://edbio.github.io/github/about/</loc>
     <priority>0</priority>
   </url>
   
